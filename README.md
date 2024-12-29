@@ -44,7 +44,7 @@ Check out my pinned repositories for more details!
 
 Feel free to reach out and collaborate:
 - **Email**: [patricioleroux@gmail.com](mailto:patricioleroux@gmail.com)
-- **LinkedIn**: [linkedin.com/in/patricio-leroux](www.linkedin.com/in/patricio-leroux)
+- **LinkedIn**: [www.linkedin.com/in/patricio-leroux](www.linkedin.com/in/patricio-leroux)
 
 Thanks for visiting, and happy coding! 🚀
 ## Hi there 👋
